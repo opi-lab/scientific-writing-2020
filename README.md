@@ -14,3 +14,15 @@ This short course introduces undergraduate students on the craft of scientific/a
 - To get exposed to academic writing literature and online resources. 
 - To gain experience editing short academic texts.
 - To understand the need for continuing professional development.
+
+## Outline
+
+### Lecture 1: The writing process
+
+- [Lecture 1 slides](https://www.dropbox.com/s/fhoodusr1ekv21m/Lec-01-the-basics.pdf?dl=0)
+
+- [Short introduction quiz](https://forms.gle/g13Gu7sgNMQLo9Rs5)
+
+### Lecture 2: The scientific article
+
+- [Lecture 2 slides]()
