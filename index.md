@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## A Gentle Introduction to Scientific Writing
 
-You can use the [editor on GitHub](https://github.com/opi-lab/scientific-writing-2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Andrés G. Marrugo, Ph.D.          
+*Universidad Tecnológica de Bolívar*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+September, 2020
 
-### Markdown
+##  Aims and Scope
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This short course introduces undergraduate students on the craft of scientific/academic writing. There will be several short surveys and short writing exercises during the course.
 
-```markdown
-Syntax highlighted code block
+### Course Goals: 
+- To understand the difference between scientific writing and other types of writing.
+- To get exposed to academic writing literature and online resources. 
+- To gain experience editing short academic texts.
+- To understand the need for continuing professional development.
 
-# Header 1
-## Header 2
-### Header 3
+## Outline
 
-- Bulleted
-- List
+### Lecture 1: The writing process
 
-1. Numbered
-2. List
+- [Lecture 1 slides](https://www.dropbox.com/s/fhoodusr1ekv21m/Lec-01-the-basics.pdf?dl=0)
 
-**Bold** and _Italic_ and `Code` text
+- [Short introduction quiz](https://forms.gle/g13Gu7sgNMQLo9Rs5)
 
-[Link](url) and ![Image](src)
-```
+### Lecture 2: The scientific article
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Lecture 2 slides](https://www.dropbox.com/s/32lg0et22w28jlo/Lec-02-writing-a-scientific-paper.pdf?dl=0)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/opi-lab/scientific-writing-2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Evaluate the course](https://forms.gle/YhxVVFTGRA3oCtDe8)
